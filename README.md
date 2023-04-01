@@ -1,7 +1,7 @@
 <h1>I'm Jhonatan de Oliveira Silva </h1>
 <h2>A new student in the technology field, changing my current field of work for programming languages.</h2>
       
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jhowpix)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhowpix&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
