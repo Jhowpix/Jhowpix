@@ -11,5 +11,5 @@
 
 <p>I accept any support material for mi evolution dev.</p> 
 
-<img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" style="width: 55px;"> <img src="https://user-images.githubusercontent.com/17773218/56295546-32a81200-60ea-11e9-8761-0b726b20fd51.png" style="width: 65px;">
+<img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" style="width: 55px;"> <img src="https://user-images.githubusercontent.com/17773218/56295546-32a81200-60ea-11e9-8761-0b726b20fd51.png" style="width: 75px;">
  
