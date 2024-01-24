@@ -13,5 +13,5 @@
 
 <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" style="width: 55px;"> <img src="https://user-images.githubusercontent.com/17773218/56295546-32a81200-60ea-11e9-8761-0b726b20fd51.png" style="width: 70px;">
 
-<p style="color: #f7f7f7;"> npx create-react-app my-app </p>
+<i style="color: #f7f7f7;"> npx create-react-app my-app </i>
  
