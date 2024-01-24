@@ -12,7 +12,11 @@
 
 <i> npx create-react-app my-app </i>
 
-<i>PS C:\userName\documents\newFolder\my-app></i><b> npm start</b>
+<b>PS C:</b><i>\userName\documents\newFolder\my-app></i><b> npm start</b>
+
+<b>Local:</b> <i> http//localhost:3000</i>
+
+<b>On Your Network </b> <i> http//192.169.0.103:3000</i>
 
 
 <a href="https://steamcommunity.com/profiles/76561199247898368/myworkshopfiles/?appid=221100">Create Dayz moded </a><i> Local STEAM </i><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" style="width: 20px;">
