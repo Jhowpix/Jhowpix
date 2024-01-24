@@ -12,5 +12,5 @@
 
 <i style="color: #f7f7f7;"> npx create-react-app my-app </i>
 
-<a style="text-decoration: none;" href="https://steamcommunity.com/profiles/76561199247898368/myworkshopfiles/?appid=221100">Dayz moded local STEAM by:JhowPix</a>
+<a style="text-decoration: none;" href="https://steamcommunity.com/profiles/76561199247898368/myworkshopfiles/?appid=221100">Dayz moded</a><i>Local STEAM </i><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg"><i> by: JhowPix.</i>
  
