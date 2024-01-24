@@ -12,5 +12,5 @@
 
 <i style="color: #f7f7f7;"> npx create-react-app my-app </i>
 
-<i> Dayz Moded <a href="https://steamcommunity.com/profiles/76561199247898368/myworkshopfiles/?appid=221100"></a></i>
+<a href="https://steamcommunity.com/profiles/76561199247898368/myworkshopfiles/?appid=221100">Dayz moded</a>
  
