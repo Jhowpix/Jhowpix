@@ -12,8 +12,6 @@
 
 <i> npx create-react-app my-app </i>
 
-<img src="https://dayz.fandom.com/wiki/DayZ">
-
 
 <a href="https://steamcommunity.com/profiles/76561199247898368/myworkshopfiles/?appid=221100">Create Dayz moded </a><i> Local STEAM </i><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" style="width: 20px;">
  
