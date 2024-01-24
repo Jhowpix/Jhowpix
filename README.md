@@ -11,6 +11,7 @@
 <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" style="width: 40px;"> <img src="https://user-images.githubusercontent.com/17773218/56295546-32a81200-60ea-11e9-8761-0b726b20fd51.png" style="width: 50px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" style="width: 40px;">
 
 <i> npx create-react-app my-app </i>
-<img src="https://fr.m.wikipedia.org/wiki/DayZ#/media/Fichier%3ADayZ_Logo.png">
+
+<img src="[https://fr.m.wikipedia.org/wiki/DayZ#/media/Fichier%3ADayZ_Logo.png](https://upload.wikimedia.org/wikipedia/fr/e/e2/DayZ_Logo.png)">
 <a href="https://steamcommunity.com/profiles/76561199247898368/myworkshopfiles/?appid=221100">Dayz moded</a><i> Local STEAM</i><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" style="width: 20px;"><i> by: JhowPix.</i>
  
