@@ -7,18 +7,11 @@
 
  <h3>Updating every step of this new journey.</h3>
  
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg " style="width: 50px;">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg " style="width: 50px;">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="width: 40px;"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" style="width: 40px;"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" style="width: 45px;"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" style="width: 45px;"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" style="width: 40px;"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" style="width: 40px;"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" style="width: 45px;">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" style="width: 40px;"> <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" style="width: 40px;"> <img src="https://user-images.githubusercontent.com/17773218/56295546-32a81200-60ea-11e9-8761-0b726b20fd51.png" style="width: 50px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" style="width: 40px;"><br><a href="
-https://github.com/airbnb/javascript">style guides</a><br>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg " style="width: 50px;">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg " style="width: 50px;">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="width: 40px;"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" style="width: 40px;"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" style="width: 45px;"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" style="width: 45px;"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" style="width: 40px;"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" style="width: 40px;"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" style="width: 45px;">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" style="width: 40px;"> <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" style="width: 40px;"> <img src="https://user-images.githubusercontent.com/17773218/56295546-32a81200-60ea-11e9-8761-0b726b20fd51.png" style="width: 50px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" style="width: 40px;"><br>
+<a href="https://github.com/airbnb/javascript">JavaScript style guides</a>
+<br>
 
-<i> npx create-react-app my-app </i> 
 
-<b>PS C:</b><i>\userName\documents\newFolder\my-app></i><b> npm start</b>
-
-<b>Local:</b> <i> http//localhost:3000</i>
-
-<b>On Your Network </b> <i> http//192.162.0.103:3000</i>
-
-<p><b> or </b></p>
 <b>yarn</b><i> create vite Your-name-project --template react-ts
 <p><emotion>✔️</emotion></p>
 <p>yarn install</p>
