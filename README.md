@@ -31,8 +31,6 @@ para jogos.
 
 Continuar desenvolvendo minhas habilidades em programação e automação,
 transformando conhecimentos adquiridos em projetos práticos e soluções reais.</h2>
-      
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhowpix&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>Updating every step of this new journey.</h3>
  
