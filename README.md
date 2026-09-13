@@ -38,4 +38,5 @@ transformando conhecimentos adquiridos em projetos práticos e soluções reais.
 <p>https://youtu.be/4_573VJs2LI?feature=shared</p><br><br>
     
 <i> Dayz server </i><b> .xml .json and .c </b>
+<img src="https://github.com/Jhowpix/GoldPage/blob/main/certificados/w3schools.png?raw=true" style="width: 80px;">
  
