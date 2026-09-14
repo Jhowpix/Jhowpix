@@ -6,6 +6,7 @@ automação e desenvolvimento de soluções práticas.
 
 - Excel
 - Python
+- SQL
 - Automação
 
 ## Projetos
