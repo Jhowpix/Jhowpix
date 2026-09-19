@@ -33,15 +33,7 @@ transformando conhecimentos adquiridos em projetos práticos e soluções reais.
 <h3>Updating every step of this new journey.</h3>
 
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg " style="width: 50px;">  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg " style="width: 50px;">  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="width: 40px;"> 
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" style="width: 40px;"> 
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" style="width: 40px;"> 
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" style="width: 40px;"> 
-<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" style="width: 40px;"> 
-<img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" style="width: 40px;"><br><hr>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg " style="width: 50px;">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg " style="width: 50px;">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="width: 40px;"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" style="width: 40px;"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" style="width: 40px;"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" style="width: 40px;"> <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" style="width: 40px;"> <img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" style="width: 40px;"><br><hr>
 
 
 
