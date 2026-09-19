@@ -5,7 +5,9 @@ automação e desenvolvimento de soluções práticas.
 ## Atualmente estudando
 
 - Excel
-- Python
+- Python -> Pandas -> Matplotlib 
+- Streamlit
+- PostgreSQL
 - SQL
 - Automação
 
