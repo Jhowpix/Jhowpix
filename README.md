@@ -10,6 +10,8 @@ automação e desenvolvimento de soluções práticas.
 - PostgreSQL
 - SQL
 - Automação
+ 
+   <br><a href="https://youtu.be/dKTCMOJyqtY"></a><br>
 
 ## Projetos
 
