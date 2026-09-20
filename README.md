@@ -11,7 +11,7 @@ automação e desenvolvimento de soluções práticas.
 - SQL
 - Automação
  
-   <br><a href="https://youtu.be/dKTCMOJyqtY">Dice-fishing mini-game video</a><br>
+   <br><a href="https://youtu.be/dKTCMOJyqtY">VIDEO GAME FISHING DATA</a><br>
 
 ## Projetos
 
