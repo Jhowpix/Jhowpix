@@ -11,6 +11,8 @@ automação e desenvolvimento de soluções práticas.
 - Automação
  
    <br><a href="https://youtu.be/dKTCMOJyqtY">VIDEO GAME FISHING DATA</a><br>
+   <br><a href="https://youtu.be/kTuBu52Fyek?si=6Yo3R2jbCcG04jBf">VIDEO KAIROS WATCH CO STORE</a><br>
+   
 
 ## Projetos
 
